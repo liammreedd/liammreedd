@@ -2,7 +2,7 @@
 - 👀 I’m interested in creating shared experiences related to software development in order to ease the process of learning to code!
 - 🌱 I’m currently learning Python and Swift.
 - 💞️ I’m looking to collaborate on not much at the moment - I will keep this updated if I change my mind!
-- 📫 How to reach me: Private, however as stated above I will update this as need be.
+- 📫 How to reach me: My email! Check out the sidebar to view this.
 
 <!---
 liammreedd/liammreedd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
